@@ -1,0 +1,84 @@
+h2{
+    color:#121258;
+    font-size: 28px;
+}
+.ebay_logo{
+    height: 50px;
+    width: auto;
+}
+
+.div-viewed{
+    background-color:#c2f2ef;
+    text-align: center;
+    font-size: 16px;
+    color:#474a48;
+    padding: 3px 3px 3px 3px;
+}
+.item_link1{
+    font-size: 16px;
+}
+.sold_text{
+    color:#e62048;
+    font-size: 12px;
+}
+.btn_view_item{
+    background-color: #3665f3;
+    color:white;
+    font-size: 16px;
+    height: 46.8px;
+    width: 232px;
+    border-style: none;
+    margin-bottom: 10px;
+}
+.btn_contact_seller{
+    background-color: white;
+    color:#3665f3;
+    font-size: 16px;
+    height: 46.8px;
+    width: 232px;
+    border: solid #3665f3 1px;
+}
+.price-text{
+    font-size: 16px;
+    color:#111820;
+}
+.small_text{
+    font-size: 14px;
+    color:#767676;
+}
+.red_text{
+    color:#e62048;
+}
+.white_text{
+    color:white;
+}
+.tip_text{
+    background-color: #c2f2ef;
+    color:#121258;
+}
+.contact_seller_button{
+    background-color:#121258;
+    color:white;
+    font-size: 16px;
+    height: 46.8px;
+    width: 265px;
+    margin-top:15px;
+    border: none;
+}
+.find_text{
+    font-size: 24px;
+}
+.app_store_icon{
+    width: 100px;
+}
+.social_icon{
+    width: 25px;
+}
+.sub_text{
+    font-size: 26px;
+    color:#111820;
+}
+.footer{
+    font-size: 12px;
+    color:#767676;
+}
